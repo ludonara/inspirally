@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/inspirally/static/css/main.c45c66f7.chunk.css",
+    "main.js": "/inspirally/static/js/main.f0dd71e2.chunk.js",
+    "runtime-main.js": "/inspirally/static/js/runtime-main.52b6e2fc.js",
+    "static/js/2.bf0912a3.chunk.js": "/inspirally/static/js/2.bf0912a3.chunk.js",
+    "index.html": "/inspirally/index.html",
+    "precache-manifest.b09fd6e81a5ed09b4dc546fa26883f0a.js": "/inspirally/precache-manifest.b09fd6e81a5ed09b4dc546fa26883f0a.js",
+    "service-worker.js": "/inspirally/service-worker.js",
+    "static/js/2.bf0912a3.chunk.js.LICENSE.txt": "/inspirally/static/js/2.bf0912a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b6e2fc.js",
+    "static/js/2.bf0912a3.chunk.js",
+    "static/css/main.c45c66f7.chunk.css",
+    "static/js/main.f0dd71e2.chunk.js"
+  ]
+}

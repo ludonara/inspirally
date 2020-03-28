@@ -1,0 +1,64 @@
+@import "../variables.scss";
+
+.settings__panel {
+  background-color: rgba(white, 0.9);
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+  height: 50%;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  transition: all 0.2s;
+
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  &--closed {
+    height: 50px;
+
+    .categories,
+    .credits {
+      display: none;
+    }
+  }
+}
+
+.settings__toggle {
+  color: #555;
+  width: 100%;
+  text-align: center;
+  height: 50px;
+}
+
+.categories {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow: auto;
+
+  .category {
+    margin: 2px;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 2px 5px;
+    border: solid 1px;
+    cursor: pointer;
+
+    &--selected {
+      background-color: $colorPrimary;
+      color: white;
+    }
+  }
+}
+
+.credits {
+  color: #555;
+  padding: 5px 15px;
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  font-size: 0.8em;
+}

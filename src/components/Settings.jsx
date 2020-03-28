@@ -31,12 +31,22 @@ export default function Settings(props) {
       <div className="credits">
         <div>
           Made with <FaHeart /> by{" "}
-          <a blank="_target" href="https://twitter.com/ludonara">
+          <a
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://twitter.com/ludonara"
+          >
             ludonara
           </a>
         </div>
         <div>
-          <FaGithub />
+          <a
+            href="https://github.com/ludonara/inspirally"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <FaGithub />
+          </a>
         </div>
       </div>
     </div>

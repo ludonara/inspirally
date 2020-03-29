@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/inspirally/static/css/main.134346cc.chunk.css",
-    "main.js": "/inspirally/static/js/main.4e1944c3.chunk.js",
-    "main.js.map": "/inspirally/static/js/main.4e1944c3.chunk.js.map",
+    "main.js": "/inspirally/static/js/main.7e274e99.chunk.js",
+    "main.js.map": "/inspirally/static/js/main.7e274e99.chunk.js.map",
     "runtime-main.js": "/inspirally/static/js/runtime-main.52b6e2fc.js",
     "runtime-main.js.map": "/inspirally/static/js/runtime-main.52b6e2fc.js.map",
     "static/js/2.65c32fcb.chunk.js": "/inspirally/static/js/2.65c32fcb.chunk.js",
     "static/js/2.65c32fcb.chunk.js.map": "/inspirally/static/js/2.65c32fcb.chunk.js.map",
     "index.html": "/inspirally/index.html",
-    "precache-manifest.9196d5b3f5b4533ba6a7bad77d58c1cc.js": "/inspirally/precache-manifest.9196d5b3f5b4533ba6a7bad77d58c1cc.js",
+    "precache-manifest.9b40c8b0ec4cade13deda465d11d53a5.js": "/inspirally/precache-manifest.9b40c8b0ec4cade13deda465d11d53a5.js",
     "service-worker.js": "/inspirally/service-worker.js",
     "static/css/main.134346cc.chunk.css.map": "/inspirally/static/css/main.134346cc.chunk.css.map",
     "static/js/2.65c32fcb.chunk.js.LICENSE.txt": "/inspirally/static/js/2.65c32fcb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.52b6e2fc.js",
     "static/js/2.65c32fcb.chunk.js",
     "static/css/main.134346cc.chunk.css",
-    "static/js/main.4e1944c3.chunk.js"
+    "static/js/main.7e274e99.chunk.js"
   ]
 }

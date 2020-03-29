@@ -1,0 +1,667 @@
+[
+  {
+    "c": "fruit & vegetable",
+    "t": "Alfalfa Sprouts",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Apple",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Apricot",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Artichoke",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Asian Pear",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Asparagus",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Atemoya",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Avocado",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Bamboo Shoots",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Banana",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Bean Sprouts",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Beans",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Beets",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Belgian Endive",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Bell Peppers",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Bitter Melon",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Blackberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Blueberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Bok Choy",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Boniato",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Boysenberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Broccoflower",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Broccoli",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Brussels Sprouts",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cabbage",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cactus Pear",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cantaloupe",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Carambola",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Carrots",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Casaba Melon",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cauliflower",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Celery",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Chayote",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cherimoya",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cherries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Coconuts",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Collard Greens",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Corn",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cranberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Cucumber",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Dates",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Dried Plums",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Eggplant",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Endive",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Escarole",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Feijoa",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Fennel",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Figs",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Garlic",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Gooseberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Grapefruit",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Grapes",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Green Beans",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Green Onions",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Greens",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Guava",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Hominy",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Honeydew Melon",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Horned Melon",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Iceberg Lettuce",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Jerusalem Artichoke",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Jicama",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Kale",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Kiwifruit",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Kohlrabi",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Kumquat",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Leeks",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Lemons",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Lettuce",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Lima Beans",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Limes",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Longan",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Loquat",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Lychee",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Madarins",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Malanga",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Mandarin Oranges",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Mangos",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Mulberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Mushrooms",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Napa",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Nectarines",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Okra",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Onion",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Oranges",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Papayas",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Parsnip",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Passion Fruit",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Peaches",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Pears",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Peas",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Peppers",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Persimmons",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Pineapple",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Plantains",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Plums",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Pomegranate",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Potatoes",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Prickly Pear",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Prunes",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Pummelo",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Pumpkin",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Quince",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Radicchio",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Radishes",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Raisins",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Raspberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Red Cabbage",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Rhubarb",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Romaine Lettuce",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Rutabaga",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Shallots",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Snow Peas",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Spinach",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Sprouts",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Squash",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Strawberries",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "String Beans",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Sweet Potato",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Tangelo",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Tangerines",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Tomatillo",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Tomato",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Turnip",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Ugli Fruit",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Water Chestnuts",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Watercress",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Watermelon",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Waxed Beans",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Yams",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Yellow Squash",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Yuca/Cassava",
+    "d": null
+  },
+  {
+    "c": "fruit & vegetable",
+    "t": "Zucchini Squash",
+    "d": null
+  }
+]

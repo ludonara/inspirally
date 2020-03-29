@@ -1,0 +1,502 @@
+[
+  {
+    "c": "tv show",
+    "t": "Westworld",
+    "d": "(2016)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Walking Dead",
+    "d": "(2010)"
+  },
+  {
+    "c": "tv show",
+    "t": "Élite",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Hunters",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Outsider",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Altered Carbon",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Better Call Saul",
+    "d": "(2015)"
+  },
+  {
+    "c": "tv show",
+    "t": "Star Trek: Picard",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Kingdom",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Game of Thrones",
+    "d": "(2011)"
+  },
+  {
+    "c": "tv show",
+    "t": "Grey's Anatomy",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "Vikings",
+    "d": "(2013)"
+  },
+  {
+    "c": "tv show",
+    "t": "Outlander",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "Little Fires Everywhere",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Homeland",
+    "d": "(2011)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Office",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "Peaky Blinders",
+    "d": "(2013)"
+  },
+  {
+    "c": "tv show",
+    "t": "Supernatural",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "Devs",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "I Am Not Okay with This",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Locke & Key",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Breaking Bad",
+    "d": "(2008)"
+  },
+  {
+    "c": "tv show",
+    "t": "La Casa de Papel",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "Brooklyn Nine-Nine",
+    "d": "(2013)"
+  },
+  {
+    "c": "tv show",
+    "t": "On My Block",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Witcher",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Stranger",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Sex Education",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Mandalorian",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Plot Against America",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Schitt's Creek",
+    "d": "(2015)"
+  },
+  {
+    "c": "tv show",
+    "t": "This Is Us",
+    "d": "(2016)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Valhalla Murders",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Curb Your Enthusiasm",
+    "d": "(2000)"
+  },
+  {
+    "c": "tv show",
+    "t": "Stranger Things",
+    "d": "(2016)"
+  },
+  {
+    "c": "tv show",
+    "t": "Black Mirror",
+    "d": "(2011)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Blacklist",
+    "d": "(2013)"
+  },
+  {
+    "c": "tv show",
+    "t": "Criminal Minds",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Sinner",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "Toy Boy",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Friends",
+    "d": "(1994)"
+  },
+  {
+    "c": "tv show",
+    "t": "Castlevania",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "Lucifer",
+    "d": "(2015)"
+  },
+  {
+    "c": "tv show",
+    "t": "Ozark",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "You",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Asur: Welcome to Your Dark Side",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "American Horror Story",
+    "d": "(2011)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Flash",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "Fargo",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "Riverdale",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "All American",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Modern Family",
+    "d": "(2009)"
+  },
+  {
+    "c": "tv show",
+    "t": "Narcos: Mexico",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Star Wars: The Clone Wars",
+    "d": "(2008)"
+  },
+  {
+    "c": "tv show",
+    "t": "Law & Order: Special Victims Unit",
+    "d": "(1999)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Boys",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Pandemic: How to Prevent an Outbreak",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Shameless",
+    "d": "(2011)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Good Doctor",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "NCIS: Naval Criminal Investigative Service",
+    "d": "(2003)"
+  },
+  {
+    "c": "tv show",
+    "t": "Doctor Who",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "Avenue 5",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Dave",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Crown",
+    "d": "(2016)"
+  },
+  {
+    "c": "tv show",
+    "t": "Hawaii Five-0",
+    "d": "(2010)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Big Bang Theory",
+    "d": "(2007)"
+  },
+  {
+    "c": "tv show",
+    "t": "Zoey's Extraordinary Playlist",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "Dark",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Wire",
+    "d": "(2002)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Handmaid's Tale",
+    "d": "(2017)"
+  },
+  {
+    "c": "tv show",
+    "t": "Good Girls",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Chernobyl",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Star Trek: The Next Generation",
+    "d": "(1987)"
+  },
+  {
+    "c": "tv show",
+    "t": "Mad Men",
+    "d": "(2007)"
+  },
+  {
+    "c": "tv show",
+    "t": "True Detective",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Rookie",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Run",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Sopranos",
+    "d": "(1999)"
+  },
+  {
+    "c": "tv show",
+    "t": "Chicago P.D.",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "ZeroZeroZero",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Motherland: Fort Salem",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "The 100",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "How I Met Your Mother",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "Suits",
+    "d": "(2011)"
+  },
+  {
+    "c": "tv show",
+    "t": "Chicago Fire",
+    "d": "(2012)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Letter for the King",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Expanse",
+    "d": "(2015)"
+  },
+  {
+    "c": "tv show",
+    "t": "Arrow",
+    "d": "(2012)"
+  },
+  {
+    "c": "tv show",
+    "t": "Parks and Recreation",
+    "d": "(2009)"
+  },
+  {
+    "c": "tv show",
+    "t": "9-1-1",
+    "d": "(2018)"
+  },
+  {
+    "c": "tv show",
+    "t": "Rick and Morty",
+    "d": "(2013)"
+  },
+  {
+    "c": "tv show",
+    "t": "Beastars",
+    "d": "(2019)"
+  },
+  {
+    "c": "tv show",
+    "t": "Amazing Stories",
+    "d": "(2020)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Simpsons",
+    "d": "(1989)"
+  },
+  {
+    "c": "tv show",
+    "t": "Narcos",
+    "d": "(2015)"
+  },
+  {
+    "c": "tv show",
+    "t": "It's Always Sunny in Philadelphia",
+    "d": "(2005)"
+  },
+  {
+    "c": "tv show",
+    "t": "Lost",
+    "d": "(2004)"
+  },
+  {
+    "c": "tv show",
+    "t": "Supergirl",
+    "d": "(2015)"
+  },
+  {
+    "c": "tv show",
+    "t": "BoJack Horseman",
+    "d": "(2014)"
+  },
+  {
+    "c": "tv show",
+    "t": "The Pale Horse",
+    "d": "(2020)"
+  }
+]

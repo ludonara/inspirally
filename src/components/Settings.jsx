@@ -1,5 +1,11 @@
 import React, { useState } from "react";
-import { FaGithub, FaHeart, FaAngleUp, FaAngleDown } from "react-icons/fa";
+import {
+  FaGithub,
+  FaTwitter,
+  FaHeart,
+  FaAngleUp,
+  FaAngleDown,
+} from "react-icons/fa";
 import "./Settings.scss";
 
 export default function Settings(props) {
@@ -28,25 +34,30 @@ export default function Settings(props) {
           </div>
         ))}
       </div>
-      <div className="credits">
-        <div>
-          Made with <FaHeart /> by{" "}
-          <a
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://twitter.com/ludonara"
-          >
-            ludonara
-          </a>
+      <div className="bottom">
+        <div className="languages">
+          <button onClick={() => props.setLanguage("fr")}>FR</button> |{" "}
+          <button onClick={() => props.setLanguage("en")}>EN</button>
         </div>
-        <div>
-          <a
-            href="https://github.com/ludonara/inspirally"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            <FaGithub />
-          </a>
+        <div className="credits">
+          <div>
+            Made with <FaHeart /> by{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://twitter.com/ludonara"
+            >
+              ludonara <FaTwitter />
+            </a>
+            {" | "}
+            <a
+              href="https://github.com/ludonara/inspirally"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <FaGithub />
+            </a>
+          </div>
         </div>
       </div>
     </div>

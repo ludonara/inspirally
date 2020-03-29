@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./App.scss";
 import Settings from "./components/Settings";
 import Suggestion from "./components/Suggestion";
-import data from "./data/fr";
+import data from "./data/suggests.json";
 
 const ACCEPTED_LANGUAGE = ["fr", "en"];
 
@@ -27,8 +27,10 @@ const saveInLocalStorage = (key, value) => {
   localStorage.setItem(key, JSON.stringify(value));
 };
 
-const loadFromLocalStorage = (key, defaultValue) =>
-  JSON.parse(localStorage.getItem(key)) || defaultValue;
+const loadFromLocalStorage = (key, defaultValue) => {
+  const item = localStorage.getItem(key);
+  return item === "undefined" ? defaultValue : JSON.parse(item) || defaultValue;
+};
 
 const userLanguage = (
   navigator.language ||
@@ -41,6 +43,7 @@ const appLanguage = ACCEPTED_LANGUAGE.includes(userLanguage)
   : "fr";
 
 const reHydratedState = {
+  language: loadFromLocalStorage("language", appLanguage),
   selectedCategories: loadFromLocalStorage("selectedCategories", []),
   persistedData: loadFromLocalStorage("filteredData"),
   selected: loadFromLocalStorage("selected"),
@@ -49,9 +52,10 @@ const reHydratedState = {
 
 function App() {
   // store last 20 words played
+  const [language, setLanguage] = useState(reHydratedState.language);
   const [played, setPlayed] = useState(reHydratedState.played);
   const [filteredData, setFilteredData] = useState(
-    reHydratedState.persistedData || data[appLanguage]
+    reHydratedState.persistedData || data[language]
   );
   const [selected, setSelected] = useState(reHydratedState.selected);
   const [selectedCategories, setSelectedCategories] = useState(
@@ -68,7 +72,7 @@ function App() {
     };
   });
 
-  const categories = data[appLanguage]
+  const categories = data[language]
     .reduce(
       (categories, item) =>
         categories.includes(item.c) ? categories : [...categories, item.c],
@@ -92,10 +96,10 @@ function App() {
 
     const filteredData =
       newSelectedCategories.length > 0
-        ? data[appLanguage].filter((item) =>
+        ? data[language].filter((item) =>
             newSelectedCategories.includes(item.c)
           )
-        : data[appLanguage];
+        : data[language];
     setFilteredData(filteredData);
   };
 
@@ -104,16 +108,17 @@ function App() {
       <Suggestion
         selected={selected}
         next={next}
-        nextLabel={TRANSLATION[appLanguage].next}
-        startLabel={TRANSLATION[appLanguage].start}
-        onboardingTitle={TRANSLATION[appLanguage].onboardingTitle}
-        onboardingSubtitle={TRANSLATION[appLanguage].onboardingSubtitle}
+        nextLabel={TRANSLATION[language].next}
+        startLabel={TRANSLATION[language].start}
+        onboardingTitle={TRANSLATION[language].onboardingTitle}
+        onboardingSubtitle={TRANSLATION[language].onboardingSubtitle}
       />
       <Settings
         categories={categories}
         selectedCategories={selectedCategories}
         toggleCategory={toggleCategory}
-        themesLabel={TRANSLATION[appLanguage].themes}
+        themesLabel={TRANSLATION[language].themes}
+        setLanguage={setLanguage}
       />
     </div>
   );

@@ -17,7 +17,7 @@
     height: 50px;
 
     .categories,
-    .credits {
+    .bottom {
       display: none;
     }
   }
@@ -45,7 +45,7 @@
     padding: 2px 5px;
     border: solid 1px;
     cursor: pointer;
-
+    text-transform: capitalize;
     &--selected {
       background-color: $colorPrimary;
       color: white;
@@ -53,12 +53,33 @@
   }
 }
 
+.bottom {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.languages {
+  button {
+    background: none;
+    color: $colorPrimary;
+    border: none;
+    font-weight: bold;
+  }
+}
 .credits {
+  a {
+    text-decoration: none;
+    color: $colorSecondary;
+  }
+
   color: #555;
   padding: 5px 15px;
   width: 90%;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   display: flex;
   font-size: 0.8em;
 }

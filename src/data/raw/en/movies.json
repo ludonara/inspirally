@@ -1,0 +1,502 @@
+[
+  {
+    "c": "movie",
+    "t": "Contagion",
+    "d": "(2011)"
+  },
+  {
+    "c": "movie",
+    "t": "Spenser Confidential",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Knives Out",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Star Wars: Episode IX - The Rise of Skywalker",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Frozen II",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Lost Girls",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "The Invisible Man",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "The Hunt",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "1917",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Gisaengchung",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Jumanji: The Next Level",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Uncut Gems",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Bloodshot",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Outbreak",
+    "d": "(1995)"
+  },
+  {
+    "c": "movie",
+    "t": "Jojo Rabbit",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Bombshell",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Once Upon a Time... in Hollywood",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Onward",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "The Lion King",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Emma.",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Soul",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Joker",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Ford v Ferrari",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "A Quiet Place",
+    "d": "(2018)"
+  },
+  {
+    "c": "movie",
+    "t": "Sonic the Hedgehog",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Black Widow",
+    "d": ""
+  },
+  {
+    "c": "movie",
+    "t": "Little Women",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Fast & Furious Presents: Hobbs & Shaw",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Midsommar",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Mulan",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Doctor Sleep",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "A Quiet Place Part II",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Cats",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "I Still Believe",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "El hoyo",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Shawshank Redemption",
+    "d": "(1994)"
+  },
+  {
+    "c": "movie",
+    "t": "Spies in Disguise",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Stargirl",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Midway",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Charlie's Angels",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Irishman",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Avengers: Endgame",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Yesterday",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Baaghi 3",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Richard Jewell",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "No Time to Die",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Big Time Adolescence",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Gentlemen",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Dark Waters",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Grudge",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Freaks",
+    "d": "(2018)"
+  },
+  {
+    "c": "movie",
+    "t": "Just Mercy",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Jumanji: Welcome to the Jungle",
+    "d": "(2017)"
+  },
+  {
+    "c": "movie",
+    "t": "Guns Akimbo",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "6 Underground",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Postcard Killings",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Toy Story 4",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "True History of the Kelly Gang",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "A Beautiful Day in the Neighborhood",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Terminator: Dark Fate",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Banker",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "28 Days Later...",
+    "d": "(2002)"
+  },
+  {
+    "c": "movie",
+    "t": "The Godfather",
+    "d": "(1972)"
+  },
+  {
+    "c": "movie",
+    "t": "Human Capital",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "The Lighthouse",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Escape from Pretoria",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "The Way Back",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Black Panther",
+    "d": "(2018)"
+  },
+  {
+    "c": "movie",
+    "t": "Jungle Cruise",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "The Batman",
+    "d": "(2021)"
+  },
+  {
+    "c": "movie",
+    "t": "Blade Runner 2049",
+    "d": "(2017)"
+  },
+  {
+    "c": "movie",
+    "t": "The Dark Knight",
+    "d": "(2008)"
+  },
+  {
+    "c": "movie",
+    "t": "Zombieland: Double Tap",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "All the Bright Places",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Harry Potter and the Sorcerer's Stone",
+    "d": "(2001)"
+  },
+  {
+    "c": "movie",
+    "t": "Inception",
+    "d": "(2010)"
+  },
+  {
+    "c": "movie",
+    "t": "Anna",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Alita: Battle Angel",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Guardians of the Galaxy",
+    "d": "(2014)"
+  },
+  {
+    "c": "movie",
+    "t": "Trolls World Tour",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "The Last Thing He Wanted",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Swallow",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Hook",
+    "d": "(1991)"
+  },
+  {
+    "c": "movie",
+    "t": "Marriage Story",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "After We Collided",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Snowpiercer",
+    "d": "(2013)"
+  },
+  {
+    "c": "movie",
+    "t": "Aladdin",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Jay and Silent Bob Reboot",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Frozen",
+    "d": "(2013)"
+  },
+  {
+    "c": "movie",
+    "t": "Hustlers",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "Go!",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "Goodfellas",
+    "d": "(1990)"
+  },
+  {
+    "c": "movie",
+    "t": "Interstellar",
+    "d": "(2014)"
+  },
+  {
+    "c": "movie",
+    "t": "The Shining",
+    "d": "(1980)"
+  },
+  {
+    "c": "movie",
+    "t": "Bad Boys for Life",
+    "d": "(2020)"
+  },
+  {
+    "c": "movie",
+    "t": "John Wick: Chapter 3 - Parabellum",
+    "d": "(2019)"
+  },
+  {
+    "c": "movie",
+    "t": "I Am Legend",
+    "d": "(2007)"
+  },
+  {
+    "c": "movie",
+    "t": "Twelve Monkeys",
+    "d": "(1995)"
+  },
+  {
+    "c": "movie",
+    "t": "West Side Story",
+    "d": "(2020)"
+  }
+]

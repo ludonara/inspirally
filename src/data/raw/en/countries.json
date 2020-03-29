@@ -1,0 +1,1236 @@
+[
+  {
+    "c": "country",
+    "t": "Ivory Coast",
+    "d": "Abidjan"
+  },
+  {
+    "c": "country",
+    "t": "United Arab Emirates",
+    "d": "Abu Dhabi"
+  },
+  {
+    "c": "country",
+    "t": "Nigeria",
+    "d": "Abuja"
+  },
+  {
+    "c": "country",
+    "t": "Ghana",
+    "d": "Accra"
+  },
+  {
+    "c": "country",
+    "t": "Pitcairn Islands",
+    "d": "Adamstown, Pitcairn Islands"
+  },
+  {
+    "c": "country",
+    "t": "Ethiopia",
+    "d": "Addis Ababa"
+  },
+  {
+    "c": "country",
+    "t": "Yemen",
+    "d": "Aden"
+  },
+  {
+    "c": "country",
+    "t": "Algeria",
+    "d": "Algiers"
+  },
+  {
+    "c": "country",
+    "t": "Niue",
+    "d": "Alofi"
+  },
+  {
+    "c": "country",
+    "t": "Jordan",
+    "d": "Amman"
+  },
+  {
+    "c": "country",
+    "t": "Netherlands",
+    "d": "Amsterdam"
+  },
+  {
+    "c": "country",
+    "t": "Noordeinde Palace",
+    "d": "The Hague"
+  },
+  {
+    "c": "country",
+    "t": "Andorra",
+    "d": "Andorra la Vella"
+  },
+  {
+    "c": "country",
+    "t": "Turkey",
+    "d": "Ankara"
+  },
+  {
+    "c": "country",
+    "t": "Madagascar",
+    "d": "Antananarivo"
+  },
+  {
+    "c": "country",
+    "t": "Samoa",
+    "d": "Apia"
+  },
+  {
+    "c": "country",
+    "t": "Turkmenistan",
+    "d": "Ashgabat"
+  },
+  {
+    "c": "country",
+    "t": "Eritrea",
+    "d": "Asmara"
+  },
+  {
+    "c": "country",
+    "t": "Paraguay",
+    "d": "Asunción"
+  },
+  {
+    "c": "country",
+    "t": "Greece",
+    "d": "Athens"
+  },
+  {
+    "c": "country",
+    "t": "Cook Islands",
+    "d": "Avarua"
+  },
+  {
+    "c": "country",
+    "t": "Syrian opposition",
+    "d": "Azaz"
+  },
+  {
+    "c": "country",
+    "t": "Iraq",
+    "d": "Baghdad"
+  },
+  {
+    "c": "country",
+    "t": "Azerbaijan",
+    "d": "Baku"
+  },
+  {
+    "c": "country",
+    "t": "Mali",
+    "d": "Bamako"
+  },
+  {
+    "c": "country",
+    "t": "Brunei",
+    "d": "Bandar Seri Begawan"
+  },
+  {
+    "c": "country",
+    "t": "Thailand",
+    "d": "Bangkok"
+  },
+  {
+    "c": "country",
+    "t": "Central African Republic",
+    "d": "Bangui"
+  },
+  {
+    "c": "country",
+    "t": "The Gambia",
+    "d": "Banjul"
+  },
+  {
+    "c": "country",
+    "t": "Saint Kitts and Nevis",
+    "d": "Basseterre"
+  },
+  {
+    "c": "country",
+    "t": "China",
+    "d": "Beijing"
+  },
+  {
+    "c": "country",
+    "t": "Lebanon",
+    "d": "Beirut"
+  },
+  {
+    "c": "country",
+    "t": "Serbia",
+    "d": "Belgrade"
+  },
+  {
+    "c": "country",
+    "t": "Belize",
+    "d": "Belmopan"
+  },
+  {
+    "c": "country",
+    "t": "Germany",
+    "d": "Berlin"
+  },
+  {
+    "c": "country",
+    "t": "Switzerland",
+    "d": "Bern"
+  },
+  {
+    "c": "country",
+    "t": "Kyrgyzstan",
+    "d": "Bishkek"
+  },
+  {
+    "c": "country",
+    "t": "Guinea-Bissau",
+    "d": "Bissau"
+  },
+  {
+    "c": "country",
+    "t": "South Africa",
+    "d": "Bloemfontein"
+  },
+  {
+    "c": "country",
+    "t": "Colombia",
+    "d": "Bogotá"
+  },
+  {
+    "c": "country",
+    "t": "Montserrat",
+    "d": "Brades Estate"
+  },
+  {
+    "c": "country",
+    "t": "Brazil",
+    "d": "Brasília"
+  },
+  {
+    "c": "country",
+    "t": "Slovakia",
+    "d": "Bratislava"
+  },
+  {
+    "c": "country",
+    "t": "Republic of the Congo",
+    "d": "Brazzaville"
+  },
+  {
+    "c": "country",
+    "t": "Barbados",
+    "d": "Bridgetown"
+  },
+  {
+    "c": "country",
+    "t": "Belgium",
+    "d": "City of Brussels"
+  },
+  {
+    "c": "country",
+    "t": "Romania",
+    "d": "Bucharest"
+  },
+  {
+    "c": "country",
+    "t": "Hungary",
+    "d": "Budapest"
+  },
+  {
+    "c": "country",
+    "t": "Argentina",
+    "d": "Buenos Aires"
+  },
+  {
+    "c": "country",
+    "t": "Egypt",
+    "d": "Cairo"
+  },
+  {
+    "c": "country",
+    "t": "Australia",
+    "d": "Canberra"
+  },
+  {
+    "c": "country",
+    "t": "Venezuela",
+    "d": "Caracas"
+  },
+  {
+    "c": "country",
+    "t": "Saint Lucia",
+    "d": "Castries"
+  },
+  {
+    "c": "country",
+    "t": "Montenegro",
+    "d": "Cetinje"
+  },
+  {
+    "c": "country",
+    "t": "United States Virgin Islands",
+    "d": "Charlotte Amalie, U.S. Virgin Islands"
+  },
+  {
+    "c": "country",
+    "t": "Moldova",
+    "d": "Chișinău"
+  },
+  {
+    "c": "country",
+    "t": "Turks and Caicos Islands",
+    "d": "Cockburn Town"
+  },
+  {
+    "c": "country",
+    "t": "Sri Lanka",
+    "d": "Colombo"
+  },
+  {
+    "c": "country",
+    "t": "Guinea",
+    "d": "Conakry"
+  },
+  {
+    "c": "country",
+    "t": "Denmark",
+    "d": "Copenhagen"
+  },
+  {
+    "c": "country",
+    "t": "Benin",
+    "d": "Cotonou"
+  },
+  {
+    "c": "country",
+    "t": "Senegal",
+    "d": "Dakar"
+  },
+  {
+    "c": "country",
+    "t": "Syria",
+    "d": "Damascus"
+  },
+  {
+    "c": "country",
+    "t": "Tanzania",
+    "d": "Dar es Salaam"
+  },
+  {
+    "c": "country",
+    "t": "Bangladesh",
+    "d": "Dhaka"
+  },
+  {
+    "c": "country",
+    "t": "East Timor",
+    "d": "Dili"
+  },
+  {
+    "c": "country",
+    "t": "Djibouti",
+    "d": "Djibouti (city)"
+  },
+  {
+    "c": "country",
+    "t": "Qatar",
+    "d": "Doha"
+  },
+  {
+    "c": "country",
+    "t": "Isle of Man",
+    "d": "Douglas, Isle of Man"
+  },
+  {
+    "c": "country",
+    "t": "Republic of Ireland",
+    "d": "Dublin"
+  },
+  {
+    "c": "country",
+    "t": "Tajikistan",
+    "d": "Dushanbe"
+  },
+  {
+    "c": "country",
+    "t": "Tristan da Cunha",
+    "d": "Edinburgh of the Seven Seas"
+  },
+  {
+    "c": "country",
+    "t": "Sahrawi Arab Democratic Republic",
+    "d": "Laayoune"
+  },
+  {
+    "c": "country",
+    "t": "Akrotiri and Dhekelia",
+    "d": "Episkopi Cantonment"
+  },
+  {
+    "c": "country",
+    "t": "Christmas Island",
+    "d": "Flying Fish Cove"
+  },
+  {
+    "c": "country",
+    "t": "Sierra Leone",
+    "d": "Freetown"
+  },
+  {
+    "c": "country",
+    "t": "Tuvalu",
+    "d": "Funafuti"
+  },
+  {
+    "c": "country",
+    "t": "Botswana",
+    "d": "Gaborone"
+  },
+  {
+    "c": "country",
+    "t": "Cayman Islands",
+    "d": "George Town, Cayman Islands"
+  },
+  {
+    "c": "country",
+    "t": "Ascension Island",
+    "d": "Georgetown, Ascension Island"
+  },
+  {
+    "c": "country",
+    "t": "Guyana",
+    "d": "Georgetown, Guyana"
+  },
+  {
+    "c": "country",
+    "t": "Gibraltar",
+    "d": "Gibraltar"
+  },
+  {
+    "c": "country",
+    "t": "Burundi",
+    "d": "Gitega"
+  },
+  {
+    "c": "country",
+    "t": "Guatemala",
+    "d": "Guatemala City"
+  },
+  {
+    "c": "country",
+    "t": "Saint Barthélemy",
+    "d": "Gustavia, Saint Barthélemy"
+  },
+  {
+    "c": "country",
+    "t": "Guam",
+    "d": "Hagåtña"
+  },
+  {
+    "c": "country",
+    "t": "Bermuda",
+    "d": "Hamilton, Bermuda"
+  },
+  {
+    "c": "country",
+    "t": "Easter Island",
+    "d": "Hanga Roa"
+  },
+  {
+    "c": "country",
+    "t": "Vietnam",
+    "d": "Hanoi"
+  },
+  {
+    "c": "country",
+    "t": "Zimbabwe",
+    "d": "Harare"
+  },
+  {
+    "c": "country",
+    "t": "Somaliland",
+    "d": "Hargeisa"
+  },
+  {
+    "c": "country",
+    "t": "Cuba",
+    "d": "Havana"
+  },
+  {
+    "c": "country",
+    "t": "Finland",
+    "d": "Helsinki"
+  },
+  {
+    "c": "country",
+    "t": "Solomon Islands",
+    "d": "Honiara"
+  },
+  {
+    "c": "country",
+    "t": "Pakistan",
+    "d": "Islamabad"
+  },
+  {
+    "c": "country",
+    "t": "Indonesia",
+    "d": "Jakarta"
+  },
+  {
+    "c": "country",
+    "t": "Saint Helena",
+    "d": "Jamestown, Saint Helena"
+  },
+  {
+    "c": "country",
+    "t": "Israel",
+    "d": "Jerusalem"
+  },
+  {
+    "c": "country",
+    "t": "South Sudan",
+    "d": "Juba"
+  },
+  {
+    "c": "country",
+    "t": "Afghanistan",
+    "d": "Kabul"
+  },
+  {
+    "c": "country",
+    "t": "Uganda",
+    "d": "Kampala"
+  },
+  {
+    "c": "country",
+    "t": "Nepal",
+    "d": "Kathmandu"
+  },
+  {
+    "c": "country",
+    "t": "Sudan",
+    "d": "Khartoum"
+  },
+  {
+    "c": "country",
+    "t": "Ukraine",
+    "d": "Kiev"
+  },
+  {
+    "c": "country",
+    "t": "Rwanda",
+    "d": "Kigali"
+  },
+  {
+    "c": "country",
+    "t": "South Georgia and the South Sandwich Islands",
+    "d": "King Edward Point"
+  },
+  {
+    "c": "country",
+    "t": "Jamaica",
+    "d": "Kingston, Jamaica"
+  },
+  {
+    "c": "country",
+    "t": "Norfolk Island",
+    "d": "Kingston, Norfolk Island"
+  },
+  {
+    "c": "country",
+    "t": "Saint Vincent and the Grenadines",
+    "d": "Kingstown, Saint Vincent and the Grenadines"
+  },
+  {
+    "c": "country",
+    "t": "Democratic Republic of the Congo",
+    "d": "Kinshasa"
+  },
+  {
+    "c": "country",
+    "t": "Malaysia",
+    "d": "Kuala Lumpur"
+  },
+  {
+    "c": "country",
+    "t": "Kuwait",
+    "d": "Kuwait City"
+  },
+  {
+    "c": "country",
+    "t": "Bolivia",
+    "d": "La Paz"
+  },
+  {
+    "c": "country",
+    "t": "Gabon",
+    "d": "Libreville"
+  },
+  {
+    "c": "country",
+    "t": "Malawi",
+    "d": "Lilongwe"
+  },
+  {
+    "c": "country",
+    "t": "Peru",
+    "d": "Lima"
+  },
+  {
+    "c": "country",
+    "t": "Portugal",
+    "d": "Lisbon"
+  },
+  {
+    "c": "country",
+    "t": "Slovenia",
+    "d": "Ljubljana"
+  },
+  {
+    "c": "country",
+    "t": "Eswatini",
+    "d": "Lobamba"
+  },
+  {
+    "c": "country",
+    "t": "Togo",
+    "d": "Lomé"
+  },
+  {
+    "c": "country",
+    "t": "United Kingdom",
+    "d": "London"
+  },
+  {
+    "c": "country",
+    "t": "Angola",
+    "d": "Luanda"
+  },
+  {
+    "c": "country",
+    "t": "Zambia",
+    "d": "Lusaka"
+  },
+  {
+    "c": "country",
+    "t": "Luxembourg",
+    "d": "Luxembourg (city)"
+  },
+  {
+    "c": "country",
+    "t": "Spain",
+    "d": "Madrid"
+  },
+  {
+    "c": "country",
+    "t": "Marshall Islands",
+    "d": "Majuro"
+  },
+  {
+    "c": "country",
+    "t": "Equatorial Guinea",
+    "d": "Malabo"
+  },
+  {
+    "c": "country",
+    "t": "Maldives",
+    "d": "Malé"
+  },
+  {
+    "c": "country",
+    "t": "Nicaragua",
+    "d": "Managua"
+  },
+  {
+    "c": "country",
+    "t": "Bahrain",
+    "d": "Manama"
+  },
+  {
+    "c": "country",
+    "t": "Philippines",
+    "d": "Manila"
+  },
+  {
+    "c": "country",
+    "t": "Mozambique",
+    "d": "Maputo"
+  },
+  {
+    "c": "country",
+    "t": "Collectivity of Saint Martin",
+    "d": "Marigot, Saint Martin"
+  },
+  {
+    "c": "country",
+    "t": "Lesotho",
+    "d": "Maseru"
+  },
+  {
+    "c": "country",
+    "t": "Wallis and Futuna",
+    "d": "Mata-Utu"
+  },
+  {
+    "c": "country",
+    "t": "Mexico",
+    "d": "Mexico City"
+  },
+  {
+    "c": "country",
+    "t": "Belarus",
+    "d": "Minsk"
+  },
+  {
+    "c": "country",
+    "t": "Somalia",
+    "d": "Mogadishu"
+  },
+  {
+    "c": "country",
+    "t": "Monaco",
+    "d": "Municipality of Monaco"
+  },
+  {
+    "c": "country",
+    "t": "Liberia",
+    "d": "Monrovia"
+  },
+  {
+    "c": "country",
+    "t": "Uruguay",
+    "d": "Montevideo"
+  },
+  {
+    "c": "country",
+    "t": "Comoros",
+    "d": "Moroni, Comoros"
+  },
+  {
+    "c": "country",
+    "t": "Russia",
+    "d": "Moscow"
+  },
+  {
+    "c": "country",
+    "t": "Oman",
+    "d": "Muscat, Oman"
+  },
+  {
+    "c": "country",
+    "t": "Kenya",
+    "d": "Nairobi"
+  },
+  {
+    "c": "country",
+    "t": "The Bahamas",
+    "d": "Nassau, Bahamas"
+  },
+  {
+    "c": "country",
+    "t": "Myanmar",
+    "d": "Naypyidaw"
+  },
+  {
+    "c": "country",
+    "t": "Chad",
+    "d": "N'Djamena"
+  },
+  {
+    "c": "country",
+    "t": "India",
+    "d": "New Delhi"
+  },
+  {
+    "c": "country",
+    "t": "Palau",
+    "d": "Ngerulmud"
+  },
+  {
+    "c": "country",
+    "t": "Niger",
+    "d": "Niamey"
+  },
+  {
+    "c": "country",
+    "t": "Cyprus",
+    "d": "Nicosia"
+  },
+  {
+    "c": "country",
+    "t": "Cyprus",
+    "d": "Northern Cyprus"
+  },
+  {
+    "c": "country",
+    "t": "Mauritania",
+    "d": "Nouakchott"
+  },
+  {
+    "c": "country",
+    "t": "New Caledonia",
+    "d": "Nouméa"
+  },
+  {
+    "c": "country",
+    "t": "Tonga",
+    "d": "Nukuʻalofa"
+  },
+  {
+    "c": "country",
+    "t": "Kazakhstan",
+    "d": "Nur-Sultan"
+  },
+  {
+    "c": "country",
+    "t": "Greenland",
+    "d": "Nuuk"
+  },
+  {
+    "c": "country",
+    "t": "Aruba",
+    "d": "Oranjestad, Aruba"
+  },
+  {
+    "c": "country",
+    "t": "Norway",
+    "d": "Oslo"
+  },
+  {
+    "c": "country",
+    "t": "Canada",
+    "d": "Ottawa"
+  },
+  {
+    "c": "country",
+    "t": "Burkina Faso",
+    "d": "Ouagadougou"
+  },
+  {
+    "c": "country",
+    "t": "American Samoa",
+    "d": "Pago Pago"
+  },
+  {
+    "c": "country",
+    "t": "Federated States of Micronesia",
+    "d": "Palikir"
+  },
+  {
+    "c": "country",
+    "t": "Panama",
+    "d": "Panama City"
+  },
+  {
+    "c": "country",
+    "t": "French Polynesia",
+    "d": "Papeete"
+  },
+  {
+    "c": "country",
+    "t": "Suriname",
+    "d": "Paramaribo"
+  },
+  {
+    "c": "country",
+    "t": "France",
+    "d": "Paris"
+  },
+  {
+    "c": "country",
+    "t": "Sint Maarten",
+    "d": "Philipsburg, Sint Maarten"
+  },
+  {
+    "c": "country",
+    "t": "Cambodia",
+    "d": "Phnom Penh"
+  },
+  {
+    "c": "country",
+    "t": "Mauritius",
+    "d": "Port Louis"
+  },
+  {
+    "c": "country",
+    "t": "Papua New Guinea",
+    "d": "Port Moresby"
+  },
+  {
+    "c": "country",
+    "t": "Vanuatu",
+    "d": "Port Vila"
+  },
+  {
+    "c": "country",
+    "t": "Haiti",
+    "d": "Port-au-Prince"
+  },
+  {
+    "c": "country",
+    "t": "Trinidad and Tobago",
+    "d": "Port of Spain"
+  },
+  {
+    "c": "country",
+    "t": "Czech Republic",
+    "d": "Prague"
+  },
+  {
+    "c": "country",
+    "t": "Cape Verde",
+    "d": "Praia"
+  },
+  {
+    "c": "country",
+    "t": "Kosovo",
+    "d": "Pristina"
+  },
+  {
+    "c": "country",
+    "t": "North Korea",
+    "d": "Pyongyang"
+  },
+  {
+    "c": "country",
+    "t": "Ecuador",
+    "d": "Quito"
+  },
+  {
+    "c": "country",
+    "t": "Morocco",
+    "d": "Rabat"
+  },
+  {
+    "c": "country",
+    "t": "Iceland",
+    "d": "Reykjavík"
+  },
+  {
+    "c": "country",
+    "t": "Latvia",
+    "d": "Riga"
+  },
+  {
+    "c": "country",
+    "t": "Saudi Arabia",
+    "d": "Riyadh"
+  },
+  {
+    "c": "country",
+    "t": "British Virgin Islands",
+    "d": "Road Town"
+  },
+  {
+    "c": "country",
+    "t": "Italy",
+    "d": "Rome"
+  },
+  {
+    "c": "country",
+    "t": "Dominica",
+    "d": "Roseau"
+  },
+  {
+    "c": "country",
+    "t": "Northern Mariana Islands",
+    "d": "Saipan"
+  },
+  {
+    "c": "country",
+    "t": "Costa Rica",
+    "d": "San José, Costa Rica"
+  },
+  {
+    "c": "country",
+    "t": "Puerto Rico",
+    "d": "San Juan, Puerto Rico"
+  },
+  {
+    "c": "country",
+    "t": "San Marino",
+    "d": "City of San Marino"
+  },
+  {
+    "c": "country",
+    "t": "El Salvador",
+    "d": "San Salvador"
+  },
+  {
+    "c": "country",
+    "t": "Chile",
+    "d": "Santiago"
+  },
+  {
+    "c": "country",
+    "t": "National Congress of Chile",
+    "d": "Valparaíso"
+  },
+  {
+    "c": "country",
+    "t": "Dominican Republic",
+    "d": "Santo Domingo"
+  },
+  {
+    "c": "country",
+    "t": "São Tomé and Príncipe",
+    "d": "São Tomé"
+  },
+  {
+    "c": "country",
+    "t": "Bosnia and Herzegovina",
+    "d": "Sarajevo"
+  },
+  {
+    "c": "country",
+    "t": "South Korea",
+    "d": "Seoul"
+  },
+  {
+    "c": "country",
+    "t": "Singapore",
+    "d": "Singapore"
+  },
+  {
+    "c": "country",
+    "t": "North Macedonia",
+    "d": "Skopje"
+  },
+  {
+    "c": "country",
+    "t": "Bulgaria",
+    "d": "Sofia"
+  },
+  {
+    "c": "country",
+    "t": "Grenada",
+    "d": "St. George's, Grenada"
+  },
+  {
+    "c": "country",
+    "t": "Jersey",
+    "d": "St. Helier"
+  },
+  {
+    "c": "country",
+    "t": "Antigua and Barbuda",
+    "d": "St. John's, Antigua and Barbuda"
+  },
+  {
+    "c": "country",
+    "t": "Macau"
+  },
+  {
+    "c": "country",
+    "t": "Guernsey",
+    "d": "St. Peter Port"
+  },
+  {
+    "c": "country",
+    "t": "Saint Pierre and Miquelon",
+    "d": "St. Pierre, Saint-Pierre and Miquelon"
+  },
+  {
+    "c": "country",
+    "t": "Falkland Islands",
+    "d": "Stanley, Falkland Islands"
+  },
+  {
+    "c": "country",
+    "t": "Republic of Artsakh",
+    "d": "Stepanakert"
+  },
+  {
+    "c": "country",
+    "t": "Sweden",
+    "d": "Stockholm"
+  },
+  {
+    "c": "country",
+    "t": "Abkhazia",
+    "d": "Sukhumi"
+  },
+  {
+    "c": "country",
+    "t": "Fiji",
+    "d": "Suva"
+  },
+  {
+    "c": "country",
+    "t": "Taiwan",
+    "d": "Taipei"
+  },
+  {
+    "c": "country",
+    "t": "Estonia",
+    "d": "Tallinn"
+  },
+  {
+    "c": "country",
+    "t": "Hong Kong",
+    "d": "Tamar, Hong Kong"
+  },
+  {
+    "c": "country",
+    "t": "Kiribati",
+    "d": "Tarawa"
+  },
+  {
+    "c": "country",
+    "t": "Uzbekistan",
+    "d": "Tashkent"
+  },
+  {
+    "c": "country",
+    "t": "Georgia (country)",
+    "d": "Tbilisi"
+  },
+  {
+    "c": "country",
+    "t": "Honduras",
+    "d": "Tegucigalpa"
+  },
+  {
+    "c": "country",
+    "t": "Iran",
+    "d": "Tehran"
+  },
+  {
+    "c": "country",
+    "t": "Bhutan",
+    "d": "Thimphu"
+  },
+  {
+    "c": "country",
+    "t": "Albania",
+    "d": "Tirana"
+  },
+  {
+    "c": "country",
+    "t": "Transnistria",
+    "d": "Tiraspol"
+  },
+  {
+    "c": "country",
+    "t": "Japan",
+    "d": "Tokyo"
+  },
+  {
+    "c": "country",
+    "t": "Faroe Islands",
+    "d": "Tórshavn"
+  },
+  {
+    "c": "country",
+    "t": "Libya",
+    "d": "Tripoli"
+  },
+  {
+    "c": "country",
+    "t": "South Ossetia",
+    "d": "Tskhinvali"
+  },
+  {
+    "c": "country",
+    "t": "Tunisia",
+    "d": "Tunis"
+  },
+  {
+    "c": "country",
+    "t": "Mongolia",
+    "d": "Ulaanbaatar"
+  },
+  {
+    "c": "country",
+    "t": "Liechtenstein",
+    "d": "Vaduz"
+  },
+  {
+    "c": "country",
+    "t": "Malta",
+    "d": "Valletta"
+  },
+  {
+    "c": "country",
+    "t": "Anguilla",
+    "d": "The Valley, Anguilla"
+  },
+  {
+    "c": "country",
+    "t": "Vatican City",
+    "d": "Vatican City"
+  },
+  {
+    "c": "country",
+    "t": "Seychelles",
+    "d": "Victoria, Seychelles"
+  },
+  {
+    "c": "country",
+    "t": "Austria",
+    "d": "Vienna"
+  },
+  {
+    "c": "country",
+    "t": "Laos",
+    "d": "Vientiane"
+  },
+  {
+    "c": "country",
+    "t": "Lithuania",
+    "d": "Vilnius"
+  },
+  {
+    "c": "country",
+    "t": "Poland",
+    "d": "Warsaw"
+  },
+  {
+    "c": "country",
+    "t": "United States",
+    "d": "Washington, D.C."
+  },
+  {
+    "c": "country",
+    "t": "New Zealand",
+    "d": "Wellington"
+  },
+  {
+    "c": "country",
+    "t": "Cocos (Keeling) Islands",
+    "d": "West Island, Cocos (Keeling) Islands"
+  },
+  {
+    "c": "country",
+    "t": "Curaçao",
+    "d": "Willemstad"
+  },
+  {
+    "c": "country",
+    "t": "Namibia",
+    "d": "Windhoek"
+  },
+  {
+    "c": "country",
+    "t": "Cameroon",
+    "d": "Yaoundé"
+  },
+  {
+    "c": "country",
+    "t": "Nauru",
+    "d": "Yaren District"
+  },
+  {
+    "c": "country",
+    "t": "Armenia",
+    "d": "Yerevan"
+  },
+  {
+    "c": "country",
+    "t": "Croatia",
+    "d": "Zagreb"
+  }
+]

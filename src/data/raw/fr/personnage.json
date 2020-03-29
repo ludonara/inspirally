@@ -1,0 +1,502 @@
+[
+  {
+    "c": "personnage",
+    "t": "Indiana Jones",
+    "d": "Apparitions : les quatre volets d'Indiana Jones (1981-2008) Créateurs : George Lucas, Lawrence Kasdan"
+  },
+  {
+    "c": "personnage",
+    "t": "James Bond",
+    "d": "Apparitions : la saga James Bond Créateur : Ian Fleming"
+  },
+  {
+    "c": "personnage",
+    "t": "Han Solo",
+    "d": " Apparitions : Star Wars : Un Nouvel Espoir (1977), L'Empire contre-attaque (1980), Le Retour du Jedi (1983)"
+  },
+  {
+    "c": "personnage",
+    "t": "Batman",
+    "d": "Apparitions : Batman (1966), Batman (1989), Batman Returns (1992), Batman Forever (1995), Batman & Robin (1997), Batman Begins (2005), The Dark Knight (2008), The Dark Knight Rises (2012) Créateurs : Bob Kane, Bill Finger"
+  },
+  {
+    "c": "personnage",
+    "t": "Ellen Ripley",
+    "d": " Apparitions : la quadrilogie Alien (1979-1997)"
+  },
+  {
+    "c": "personnage",
+    "t": "Le Joker",
+    "d": "Apparitions : Batman The Movie (1966), Batman (1989), Batman : Mask of the Phantasm (1993), The Dark Knight (2008) Créateurs : Jerry Robinson, Bill Finger, Bob Kane"
+  },
+  {
+    "c": "personnage",
+    "t": "John McClane",
+    "d": "Apparitions : les films Die Hard (1988-2013), Alarme fatale (1993) Créateurs : Roderick Thorp, Steven E. de Souza, Jeb Stuart"
+  },
+  {
+    "c": "personnage",
+    "t": "Tyler Durden",
+    "d": "Apparition : Fight Club (1999) Créateur : Chuck Palahniuk"
+  },
+  {
+    "c": "personnage",
+    "t": "Dark Vador",
+    "d": " Apparitions : Star Wars : EpisodesIII-IV (1977-2005)"
+  },
+  {
+    "c": "personnage",
+    "t": "The Dude",
+    "d": "Apparition : The Big Lebowski (1998) Créateurs : Joel et Ethan Coen"
+  },
+  {
+    "c": "personnage",
+    "t": "Michael Corleone",
+    "d": "Apparitions : la trilogie Le Parrain (1972-1990) Créateur : Mario Puzo"
+  },
+  {
+    "c": "personnage",
+    "t": "Marty McFly",
+    "d": " Apparitions : la trilogie Retour vers le futur (1985-1990)"
+  },
+  {
+    "c": "personnage",
+    "t": "Iron Man",
+    "d": "Apparitions : les films Marvel (2008-2015) Créateurs : Stan Lee, Don Heck, Jack Kirby, Larry Lieber"
+  },
+  {
+    "c": "personnage",
+    "t": "Capitaine Jack Sparrow",
+    "d": "Apparitions : la série Pirates des Caraïbes (2003-2011) Créateurs : Ted Elliott, Terry Rossio"
+  },
+  {
+    "c": "personnage",
+    "t": "Aragorn",
+    "d": "Apparitions : la trilogie Le Seigneur des Anneaux (2001-2003) Créateur : J.R.R. Tolkien"
+  },
+  {
+    "c": "personnage",
+    "t": "Ron Burgundy",
+    "d": "Apparitions : Anchorman : The Legend of Ron Burgundy (2004), Anchorman 2 : The Legend Continues (2013) Créateurs : Will Ferrell, Adam McKay"
+  },
+  {
+    "c": "personnage",
+    "t": "M",
+    "d": " Apparitions : The Grand Budapest Hotel (2014)"
+  },
+  {
+    "c": "personnage",
+    "t": "Rick Blaine",
+    "d": "Apparitions : Casablanca (1942) Créateurs : Murray Burnett et Joan Alison ; Julius J. Epstein, Philip G. Epstein et Howard Koch"
+  },
+  {
+    "c": "personnage",
+    "t": "Loki",
+    "d": "Apparitions : Thor (2011), Avengers Rassemblement (2012), Thor : Le Monde des ténèbres (2013) Créateurs : Stan Lee, Jack Kirby, Larry Lieber"
+  },
+  {
+    "c": "personnage",
+    "t": "Doc Brown",
+    "d": "Apparitions : la trilogie Retour vers le futur (1985-1990), Albert à l'ouest (2014) Créateurs : Robert Zemeckis, Bob Gale"
+  },
+  {
+    "c": "personnage",
+    "t": "Hannibal Lecter",
+    "d": "Apparitions : les films Lecter (1986-2007) Créateur : Thomas Harris"
+  },
+  {
+    "c": "personnage",
+    "t": "Travis Bickle",
+    "d": "Apparition : Taxi Driver (1976) Créateur : Paul Schrader"
+  },
+  {
+    "c": "personnage",
+    "t": "La Mariée",
+    "d": " Apparitions : Kill Bill Volume 1 (2003), Kill Bill Volume 2 (2004)"
+  },
+  {
+    "c": "personnage",
+    "t": "Daniel Plainview",
+    "d": "Apparitions : There Will Be Blood (2007) Créateurs : Paul Thomas Anderson, Upton Sinclair"
+  },
+  {
+    "c": "personnage",
+    "t": "Ash",
+    "d": "Apparitions : Evil Deads 1-3 (1981-1992) Créateur : Sam Raimi"
+  },
+  {
+    "c": "personnage",
+    "t": "Patrick Bateman",
+    "d": "Apparitions : American Psycho (2000) Créateur: Bret Easton Ellis"
+  },
+  {
+    "c": "personnage",
+    "t": "Forrest Gump",
+    "d": " Apparitions : Forrest Gump (1994)"
+  },
+  {
+    "c": "personnage",
+    "t": "Terminator",
+    "d": "Apparitions : la série Terminator (1984-2015) Créateur : James Cameron"
+  },
+  {
+    "c": "personnage",
+    "t": "Snake Plissken",
+    "d": "Apparitions : Escape From New York (1981), Escape From L.A. (1996) Créateur : John Carpenter Interprète : Kurt Russell"
+  },
+  {
+    "c": "personnage",
+    "t": "Gandalf",
+    "d": "Apparitions : Le Seigneur des Anneaux et la trilogie du Hobbit (2001-2014) Créateur : J.R.R. Tolkien"
+  },
+  {
+    "c": "personnage",
+    "t": "Peter Venkman",
+    "d": "Apparitions : Ghostbusters (1984), Ghostbusters II (1989) Créateurs : Dan Aykroyd,Harold Ramis"
+  },
+  {
+    "c": "personnage",
+    "t": "Jules Winnfield",
+    "d": "Apparition : Pulp Fiction (1994) Créateur : Quentin Tarantino"
+  },
+  {
+    "c": "personnage",
+    "t": "L'Homme sans nom",
+    "d": "Apparitions : Pour une poignée de dollars (1964), Et pour quelques dollars de plus (1965), Le Bon, la Brute et le Truand (1966) Créateur : Sergio Leone"
+  },
+  {
+    "c": "personnage",
+    "t": "Capitaine Mal Reynolds",
+    "d": "Apparition: Serenity (2005) Créateur : Joss Whedon"
+  },
+  {
+    "c": "personnage",
+    "t": "Atticus Finch",
+    "d": "Apparition : Ne tirez pas sur l'oiseau moqueur (1962) Créateur : Harper Lee"
+  },
+  {
+    "c": "personnage",
+    "t": "Rocky Balboa",
+    "d": " Apparitions : la série Rocky (1976-2015)"
+  },
+  {
+    "c": "personnage",
+    "t": "Walter Sobchak",
+    "d": "Apparition : The Big Lebowski (1998) Créateurs : Joel et Ethan Coen"
+  },
+  {
+    "c": "personnage",
+    "t": "Yoda",
+    "d": "Apparitions : la série Star Wars (1980-2005) Créateurs : George Lucas, Leigh Brackett, Lawrence Kasdan"
+  },
+  {
+    "c": "personnage",
+    "t": "Driver",
+    "d": " Apparition : Drive (2011)"
+  },
+  {
+    "c": "personnage",
+    "t": "Ferris Bueller",
+    "d": "Apparition : La Folle Journée de Ferris Bueller (1986) Créateur : John Hughes"
+  },
+  {
+    "c": "personnage",
+    "t": "Keyser Söze",
+    "d": "Apparition : The Usual Suspects Créateur : Christopher McQuarrie"
+  },
+  {
+    "c": "personnage",
+    "t": "Lou Bloom",
+    "d": "Apparition : Night Call (2014) Créateur : Dan Gilroy"
+  },
+  {
+    "c": "personnage",
+    "t": "Amy Dunne",
+    "d": "Apparition : Gone Girl (2014) Créateur : Gillian Flynn"
+  },
+  {
+    "c": "personnage",
+    "t": "Anton Chigurh",
+    "d": "Apparition : No Country For Old Men (2007) Créateurs : Cormac McCarthy, Ethan et Joel Coen"
+  },
+  {
+    "c": "personnage",
+    "t": "Tommy DeVito",
+    "d": "Apparition : Les Affranchis (1990) Créateurs : Nicholas Pileggi, Martin Scorsese"
+  },
+  {
+    "c": "personnage",
+    "t": "Captain America",
+    "d": " Apparitions : les films Marvel (2011-2015)"
+  },
+  {
+    "c": "personnage",
+    "t": "Rick Deckard",
+    "d": "Apparition : Blade Runner Créateurs : Philip K. Dick, Hampton Fancher, David Webb Peoples"
+  },
+  {
+    "c": "personnage",
+    "t": "Lesther Burnham",
+    "d": "Apparition : American Beauty (1999) Créateur : Alan Ball"
+  },
+  {
+    "c": "personnage",
+    "t": "Harry Callahan",
+    "d": "Apparitions : la série L'Inspecteur Harry (1971-1988) Créateurs : Harry Julian Fink, Rita M. Fink, Dean Riesner"
+  },
+  {
+    "c": "personnage",
+    "t": "Luke Skywalker",
+    "d": " Apparitions : la saga Star Wars (1977-2015)"
+  },
+  {
+    "c": "personnage",
+    "t": "Obi-Wan Kenobi",
+    "d": "Apparition : la saga Star Wars (1977-2005) Créateur : George Lucas"
+  },
+  {
+    "c": "personnage",
+    "t": "Shaun Riley",
+    "d": "Apparition : Shaun of the Dead (2004) Créateurs : Edgar Wright, Simon Pegg"
+  },
+  {
+    "c": "personnage",
+    "t": "Vito Corleone",
+    "d": "Apparitions : Le Parrain (1972), Le Parrain II (1974) Créateur : Mario Puzo"
+  },
+  {
+    "c": "personnage",
+    "t": "Amélie Poulain",
+    "d": " Apparition : Le Fabuleux destin d'Amélie Poulain (2001)"
+  },
+  {
+    "c": "personnage",
+    "t": "Axel Foley",
+    "d": "Apparitions : la trilogie Le Flic de Beverly Hills (1984-1994) Créateur : Daniel Petrie Jr."
+  },
+  {
+    "c": "personnage",
+    "t": "Jack Burton",
+    "d": "Apparition : Les Aventures de Jack Burton dans les griffes du Mandarin (1986) Créateurs : John Carpenter, W.D. Richter"
+  },
+  {
+    "c": "personnage",
+    "t": "Katniss Everdeen",
+    "d": "Apparitions : la saga Hunger Games (2012-2015) Créateur : Suzanne Collins"
+  },
+  {
+    "c": "personnage",
+    "t": "Sarah Connor",
+    "d": "Apparitions : Terminator (1984), Terminator 2 (1991), Terminator : Salvation (2009, voix seulement), Terminator Genisys (2015) Créateur : James Cameron"
+  },
+  {
+    "c": "personnage",
+    "t": "Ace Ventura",
+    "d": "Apparitions : Ace Ventura, détective pour chiens et chats (1994), Ace Ventura en Afrique (1995) Créateurs : Jack Bernstein, Tom Shadyac, Jim Carrey"
+  },
+  {
+    "c": "personnage",
+    "t": "Dr",
+    "d": " Apparition : Django Unchanied (2012)"
+  },
+  {
+    "c": "personnage",
+    "t": "Bilbo Baggins",
+    "d": "Apparitions : Le Seigneur des Anneaux et la trilogie Hobbit (2001-2014) Créateur : J.R.R. Tolkien"
+  },
+  {
+    "c": "personnage",
+    "t": "E",
+    "d": "Apparition : E.T. L'Extraterrestre (1982) Créateur : Melissa Mathison"
+  },
+  {
+    "c": "personnage",
+    "t": "Wolverine",
+    "d": "Apparitions : lasaga X-Men (2000-2014) Créateurs : Len Wein, John Romita Sr."
+  },
+  {
+    "c": "personnage",
+    "t": "George Bailey",
+    "d": "Apparition : La Vie est belle (1946) Créateur : Philip Van Doren Stern"
+  },
+  {
+    "c": "personnage",
+    "t": "Hans Landa",
+    "d": "Apparition : Inglourious Basterds (2009) Créateur : Quentin Tarantino"
+  },
+  {
+    "c": "personnage",
+    "t": "Gollum",
+    "d": "Apparitions : la trilogie Le Seigneur des Anneaux (2001-2003) et Le Hobbit : Un voyage inattendu (2012) Créateur : J.R.R. Tolkien"
+  },
+  {
+    "c": "personnage",
+    "t": "Harry Potter",
+    "d": "Apparitions : la saga Harry Potter (2001-2011) Créateur : J.K. Rowling"
+  },
+  {
+    "c": "personnage",
+    "t": "Neo",
+    "d": " Apparitions : la trilogie Matrix (1999-2003)"
+  },
+  {
+    "c": "personnage",
+    "t": "Marge Gunderson",
+    "d": "Apparition : Fargo (1996) Créateurs : Joel et Ethan Coen"
+  },
+  {
+    "c": "personnage",
+    "t": "Tony Montana",
+    "d": "Apparition : Scarface (1983) Créateur : Oliver Stone"
+  },
+  {
+    "c": "personnage",
+    "t": "Star-Lord",
+    "d": "Apparition : Les Gardiens de la Galaxy (2014) Créateurs : Steve Englehart, Steve Gan"
+  },
+  {
+    "c": "personnage",
+    "t": "Capitaine Kirk",
+    "d": "Apparitions : la saga originale Star Trek (1979-1994), Star Trek (2009), Star Trek Into Darkness (2013) Créateur : Gene Roddenberry"
+  },
+  {
+    "c": "personnage",
+    "t": "Donnie Darko",
+    "d": " Apparition : Donnie Darko (2001)"
+  },
+  {
+    "c": "personnage",
+    "t": "Frank Drebin",
+    "d": "Apparitions : la saga Y a-t-il un flic ? (1988-1994) Créateurs : David Zucker, Jim Abrahamas, Jerry Zucker"
+  },
+  {
+    "c": "personnage",
+    "t": "Lisbeth Salander",
+    "d": "Apparitions : la trilogie Millénium (2009), le remake The Girl With the Dragon Tattoo (2011) Créateur : Stieg Larsson"
+  },
+  {
+    "c": "personnage",
+    "t": "Soldat William Hudson",
+    "d": "Apparitions : Aliens (1986) Créateur : James Cameron"
+  },
+  {
+    "c": "personnage",
+    "t": "Samwise Gamgee",
+    "d": "Apparitions : la trilogie Le Seigneur des Anneaux (2001-2003) Créateur : J.R.R. Tolkien"
+  },
+  {
+    "c": "personnage",
+    "t": "Martin Blank",
+    "d": "Apparition : Tueurs à gages (1997) Créateurs : Tom Jankiewicz, D.V. De Vincentis, Steve Pink, John Cusack"
+  },
+  {
+    "c": "personnage",
+    "t": "Roy Batty",
+    "d": "Apparition : Blade Runner (1982) Créateurs : Philip K. Dick, Hampton Fancher, David Webb Peoples"
+  },
+  {
+    "c": "personnage",
+    "t": "V",
+    "d": "Apparition : V pour Vendetta (2005) Créateurs : Alan Moore, David Lloyd"
+  },
+  {
+    "c": "personnage",
+    "t": "Withnail",
+    "d": "Apparition : Withnail et moi (1987) Créateur : Bruce Robinson"
+  },
+  {
+    "c": "personnage",
+    "t": "Woody",
+    "d": " Apparitions : Toy Story 1-3 (1995-2010)"
+  },
+  {
+    "c": "personnage",
+    "t": "Bane",
+    "d": "Apparitions : Batman & Robin (1997), The Dark Knight Rises (2012) Créateurs : Chuck Dixon, Doug Moench, Graham Nolan"
+  },
+  {
+    "c": "personnage",
+    "t": "Corporal Hicks",
+    "d": "Apparition : Aliens (1986) Créateur : James Cameron"
+  },
+  {
+    "c": "personnage",
+    "t": "Walker",
+    "d": "Apparition : Point Blank (1967) Créateur : Donald E. Westlake"
+  },
+  {
+    "c": "personnage",
+    "t": "Red",
+    "d": "Apparition : Les Évadés (1994) Créateur : Stephen King"
+  },
+  {
+    "c": "personnage",
+    "t": "Ethan Hunt",
+    "d": " Apparition : la saga Mission : Impossible (1996-2015)"
+  },
+  {
+    "c": "personnage",
+    "t": "Gromit",
+    "d": "Apparitions : Wallace et Gromit : Le Mystère du lapin-garou (2005) Créateur : Nick Park"
+  },
+  {
+    "c": "personnage",
+    "t": "Groot",
+    "d": "Apparition : Les Gardiens de la Galaxie (2014) Créateurs : Stan Lee, Jack Kirby, Dick Ayers"
+  },
+  {
+    "c": "personnage",
+    "t": "Hal",
+    "d": "Apparition: 2001 : L'Odyssée de l'espace (1968) Créateur : Arthur C. Clarke"
+  },
+  {
+    "c": "personnage",
+    "t": "Inigo Montoya",
+    "d": "Apparitions : Princes Bride (1987) Créateur : William Goldman"
+  },
+  {
+    "c": "personnage",
+    "t": "Inspecteur Clouseau",
+    "d": "Apparition : les films La Panthère rose (1963-2009) Créateurs : Blake Edwards, Maurice Richlin"
+  },
+  {
+    "c": "personnage",
+    "t": "Wednesday Addams",
+    "d": "Apparitions : les films La Famille Addams (1991-1993) Créateur : Charles Addams"
+  },
+  {
+    "c": "personnage",
+    "t": "Legolas",
+    "d": "Apparitions : Le Seigneur desAnneaux et la trilogie Le Hobbit (2001-2014) Créateur : J.R.R. Tolkien"
+  },
+  {
+    "c": "personnage",
+    "t": "Maximus",
+    "d": "Apparition : Gladiator (2000) Créateurs : David Franzoni, John Logan, William Nicholson"
+  },
+  {
+    "c": "personnage",
+    "t": "Les Minions",
+    "d": "Apparitions : les films Les Minions (2010-2013), Minions (2015) Créateur : Sergio Pablos"
+  },
+  {
+    "c": "personnage",
+    "t": "Norman Bates",
+    "d": "Apparitions : les films The Psycho (1960-1990), le remake Psycho (1998) Créateur : Robert Bloch"
+  },
+  {
+    "c": "personnage",
+    "t": "Optimus Prime",
+    "d": "Apparition : la saga Transformers (2007-2014) Créateurs : Denny O'Neil, Jim Shooter, Bob Budiansky"
+  },
+  {
+    "c": "personnage",
+    "t": "Randle McMurphy",
+    "d": "Apparition : Vol au-dessus d'un nid de coucou (1975) Créateurs : Ken Kesey, Bo Goldman"
+  },
+  {
+    "c": "personnage",
+    "t": "Edna Mode",
+    "d": " Apparition : Les Indestructibles (2004)"
+  }
+]

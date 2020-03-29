@@ -87,7 +87,7 @@ function App() {
     setPlayed([randomData.t, ...played.slice(0, 20)]);
   };
 
-  const toggleCategory = (category) => {
+  const toggleCategory = (category, lg) => {
     const newSelectedCategories = selectedCategories.includes(category)
       ? selectedCategories.filter((sc) => sc !== category)
       : [...selectedCategories, category];
@@ -96,11 +96,17 @@ function App() {
 
     const filteredData =
       newSelectedCategories.length > 0
-        ? data[language].filter((item) =>
+        ? data[lg || language].filter((item) =>
             newSelectedCategories.includes(item.c)
           )
-        : data[language];
+        : data[lg || language];
     setFilteredData(filteredData);
+  };
+
+  const setLg = (lg) => {
+    setSelectedCategories([]);
+    setFilteredData(data[lg]);
+    setLanguage(lg);
   };
 
   return (
@@ -118,7 +124,8 @@ function App() {
         selectedCategories={selectedCategories}
         toggleCategory={toggleCategory}
         themesLabel={TRANSLATION[language].themes}
-        setLanguage={setLanguage}
+        setLanguage={setLg}
+        version="1.2"
       />
     </div>
   );

@@ -57,6 +57,7 @@ export default function Settings(props) {
             >
               <FaGithub />
             </a>
+            - version {props.version}
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 Welcome to inspirally repo !
 
-Demo : https://ludonara.gitlab.io/inspirally/
+To play : https://ludonara.github.io/inspirally/
 
 This is a free word generator by theme.
 A word, your rules. Have a break with Inspirally.

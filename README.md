@@ -1,5 +1,14 @@
 Welcome to inspirally repo !
 
+Demo : https://ludonara.gitlab.io/inspirally/
+
+This is a free word generator by theme.
+A word, your rules. Have a break with Inspirally.
+
+This app is free and open for ever.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -28,4 +37,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-

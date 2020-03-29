@@ -26,7 +26,7 @@
   },
   "scripts": {
     "generateData": "node scripts/generateData",
-    "predeploy": "yarn run build",
+    "predeploy": "yarn run generateData && yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "GENERATE_SOURCEMAP=false yarn run generateData && react-scripts build",

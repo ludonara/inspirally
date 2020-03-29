@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f17c872c69f6ad4ed8de9f33adb2b99",
+    "revision": "216ba75554abe5478a2f2ec8fc13c492",
     "url": "/inspirally/index.html"
   },
   {
-    "revision": "d66f20ccc5975d3e2d6e",
+    "revision": "6e249fafde7d5dddb853",
     "url": "/inspirally/static/css/main.134346cc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inspirally/static/js/2.65c32fcb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d66f20ccc5975d3e2d6e",
-    "url": "/inspirally/static/js/main.1f57c6e9.chunk.js"
+    "revision": "6e249fafde7d5dddb853",
+    "url": "/inspirally/static/js/main.e6ce4caa.chunk.js"
   },
   {
     "revision": "bd48292d39e6ac9b05ce",

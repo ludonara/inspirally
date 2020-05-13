@@ -5,7 +5,7 @@ To play : https://ludonara.github.io/inspirally/
 This is a free word generator by theme.
 A word, your rules. Have a break with Inspirally.
 
-This app is free and open for ever.
+This app is free and open for ever. We built it to our team building at [Powerslide](https://powerslide.io)
 
 ---
 
